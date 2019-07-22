@@ -1,5 +1,5 @@
-# csc648-sp19-Team11
-todo: project description, team members, etc....
+# Housing portal for SFSU students
+Developed as a class project in a team of 7 students.
 
 # First time use
 1. Clone the repo.
